@@ -1,18 +1,8 @@
-# Horizons Hackathon Template.
+# Middle-Race BackEnd
 
-## Steps 1: Get your project set-up
-You have two ways of working on your project: Local and Gomix.
+This repository contains all the code for the middle-race ios game. 
 
-### Local development
-1. Clone the repo.
-1. Create a `env.sh` file that contains:
-
-  ```
-  export MONGODB_URI='YOUR URI';
-  export SECRET='YOUR SECRET'
-  ```
-
-1. Run `source .env`, and you are good to go!
+Created for a Horizons mobile game hackathon over 3 days.
 
 ### Gomix Development
 
